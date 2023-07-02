@@ -1,6 +1,6 @@
 # Hi there! I'm Errifi 👋
 
-![Profile Banner](https://example.com/banner.png)
+![Header](github-header.png)
 
 I'm a passionate frontend developer on a journey of continuous learning and growth. Currently, I'm diving deep into the world of Next.js, exploring its endless possibilities and refining my skills. 🚀
 
