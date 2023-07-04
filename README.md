@@ -1,18 +1,24 @@
-# Hi there! I'm Errifi 👋
-
+<!---
 ![Header](github-header.png)
+--->
 
-I'm a passionate frontend developer on a journey of continuous learning and growth. Currently, I'm diving deep into the world of Next.js, exploring its endless possibilities and refining my skills. 🚀
 
-## 🔧 Skills & Expertise
+<h1 align="center">Hi 👋, I'm Errifi</h1>
+<h1 align="center" > A passionate FrontEnd Developer on a journey of continuous learning and growth. 🚀 </h1>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- **HTML**: Crafting the structure of web pages to perfection.
-- **CSS**: Styling elements with finesse and creating visually stunning designs.
-- **SASS**: Harnessing the power of Sass to streamline my stylesheets.
-- **JavaScript**: Building interactive and dynamic web applications.
-- **React**: Creating reusable components and delivering seamless user experiences.
-- **Next.js**: Developing high-performance and scalable applications with ease.
-- **TypeScript**: Embracing type safety for robust and maintainable code.
+
+- 🌱 I’m currently learning **Next-JS**
+- 💬 Ask me about anything. I will try to help you as much as I can.
+
+<h3 align="left">Languages and Tools:</h3>
+<br>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdessamadds&show_icons=true&locale=en&layout=compact" alt="abdessamadds" />
+
 
 ## 🌱 Learning and Growing
 
@@ -22,9 +28,15 @@ As a developer, I firmly believe in the importance of continuous learning. Curre
 
 Throughout my journey, I have had the privilege of working on various exciting projects, honing my skills and collaborating with talented individuals. You can explore my repositories to see some of the projects I've been involved in. I love creating user-friendly interfaces, optimizing performance, and writing clean, maintainable code.
 
+
+
+
+
 ## 📫 Let's Connect
 
 I'm always eager to connect with fellow developers, exchange knowledge, and collaborate on interesting projects. Feel free to reach out to me via [email](mailto:errifi@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/errifi). Let's code together and make a positive impact in the digital world!
+--->
+
 
 ## ⚡ Fun Fact
 
