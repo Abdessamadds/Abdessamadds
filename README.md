@@ -31,7 +31,7 @@ Throughout my journey, I have had the privilege of working on various exciting p
 
 
 
-
+<!---
 ## 📫 Let's Connect
 
 I'm always eager to connect with fellow developers, exchange knowledge, and collaborate on interesting projects. Feel free to reach out to me via [email](mailto:errifi@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/errifi). Let's code together and make a positive impact in the digital world!
