@@ -7,10 +7,12 @@
 <h1 align="center" > A passionate FrontEnd Developer on a journey of continuous learning and growth. 🚀 </h1>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+- 👨‍💻 Frontend Developer specializing in **ReactJS** and other modern web technologies.
+- 🚀 Passionate about creating dynamic and interactive user interfaces.
+- 🌟 Constantly exploring new front-end frameworks and tools to enhance my skills.
+- 🌱  currently learning **Next-JS**
 
-- 🌱 I’m currently learning **Next-JS**
-- 💬 Ask me about anything. I will try to help you as much as I can.
-
+  
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
